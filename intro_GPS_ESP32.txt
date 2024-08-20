@@ -1,0 +1,3 @@
+# Aim: Develop a program that allow ESP32 to check automatically the GPS signal for its location.
+# Analyse the signal from the atenna and interpret the signal to readable formats
+# Automatically return the translated signal and send the location data to the server.
