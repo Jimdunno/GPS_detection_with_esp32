@@ -1,4 +1,4 @@
 # Before coding:
-# Connect the GPS to ESP32 based on ESP32's Pin diagram provided. 
+# Connect the GPS to ESP32 based on ESP32's Pin diagram provided (welding is needed). 
 # Follow the correct procedure as indicated in the manual of the GPS
 # (Here I use ATGM336-5N)
